@@ -1,17 +1,17 @@
 
 payload:
 ##七猫小说
-  - 'gdfp.gifshow.com'
-  - 'p1-lm.adkwai.com'
-  - 'api.iegadp.qq.com'
-  - '+.wtzw.com'
-  - '+.qimao.com'
-  - '+.qm989.com'
-  - '+.kuaishouzt.com'
-  - 'open.e.kuaishou.com'
-  - 'mobads.baidu.com'
-  - 'pglstatp-toutiao.com'
-  - 'gdt.qq.com'
-  - 'qzs.gdtimg.com'
-  - 'mobads-pre-config.cdn.bcebos.com'
-  - 'pgdt.ugdtimg.com'
+  - gdfp.gifshow.com
+  - p1-lm.adkwai.com
+  - api.iegadp.qq.com
+  - +.wtzw.com
+  - +.qimao.com
+  - +.qm989.com
+  - +.kuaishouzt.com
+  - open.e.kuaishou.com
+  - mobads.baidu.com
+  - pglstatp-toutiao.com
+  - gdt.qq.com
+  - qzs.gdtimg.com
+  - mobads-pre-config.cdn.bcebos.com
+  - pgdt.ugdtimg.com
