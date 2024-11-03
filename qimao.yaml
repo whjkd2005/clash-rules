@@ -4,8 +4,14 @@ payload:
   - DOMAIN-SUFFIX,gdfp.gifshow.com
   - DOMAIN-SUFFIX,p1-lm.adkwai.com
   - DOMAIN-SUFFIX,api.iegadp.qq.com
-  - DOMAIN-SUFFIX,api-cmnt.wtzw.com
-  - DOMAIN-SUFFIX,api-sc.wtzw.com
-  - DOMAIN-SUFFIX,qm-dig.wtzw.com
+  - DOMAIN-SUFFIX,wtzw.com
   - DOMAIN-SUFFIX,qimao.com
+  - DOMAIN-SUFFIX,qm989.com
+  - DOMAIN-SUFFIX,kuaishouzt.com
   - DOMAIN-SUFFIX,open.e.kuaishou.com
+  - DOMAIN-SUFFIX,mobads.baidu.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,gdt.qq.com
+  - DOMAIN-SUFFIX,qzs.gdtimg.com
+  - DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
+  - DOMAIN-SUFFIX,pgdt.ugdtimg.com
